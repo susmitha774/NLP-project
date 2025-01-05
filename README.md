@@ -29,7 +29,7 @@ This project demonstrates the potential of AI to support mental health services 
 
 ## **KEY CONTRIBUTIONS**
 
-### **Susmitha - Summarization Module (Your Role)**  
+### **Susmitha - Summarization Module (My Role)**  
 Susmitha spearheaded the development of the **summarization module**, which provides concise and actionable summaries of therapy sessions. Her contributions include:  
 
 - **Techniques Used**:  
