@@ -36,8 +36,7 @@ Susmitha spearheaded the development of the **summarization module**, which prov
   - Implemented **TextRank** for extractive summarization and **transformer-based abstractive summarization** using Hugging Face models.  
   - Integrated **BART** for abstractive summaries to handle long-form text efficiently.
 
-- **Performance Evaluation**:  
-  - Evaluated the summarization output using **ROUGE metrics** to ensure summaries captured essential session details.  
+- **Performance Evaluation**:    
   - Iteratively fine-tuned summarization parameters based on user feedback to improve quality and relevance.
 
 - **Impact**:  
