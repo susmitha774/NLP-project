@@ -80,5 +80,3 @@ This project illustrates how **AI-powered tools** can:
 This project was completed as part of a collaborative academic initiative. Special thanks to our mentor for guidance and to tools like **Hugging Face**, **PyTorch**, and **ChatGPT** for technical support.  
 
 ---
-
-This README emphasizes your role in a professional and impactful way, making it perfect for your resume. Would you like further refinements?
